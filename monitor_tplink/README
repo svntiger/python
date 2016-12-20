@@ -1,0 +1,8 @@
+1. user.py 的说明
+  1.1 该程序收集 tplink 上下线的用户mac信息
+  1.2 user.py: host 参数 tplink的ip地址，或者域名；必须为公网ip
+  1.3 user.py: useranme 参数 为tplink的用户名，默认为admin；
+  1.4 user.py: password 参数 为登录tplink的密码
+  1.5 user.py: url 参数 与 referer 参数， 请根据自己需要收集的 页面进行编辑
+  1.6 user.py: User-Agent 参数 为程序运行 主机的 浏览器信息，请根据自己host 浏览器进行相应的配置（可以进行抓包获取）
+  1.7 user.py: hostarray 参数 请根据自己抓包后的结果，进行字符处理， 获取 hostarray
