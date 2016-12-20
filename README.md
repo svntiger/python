@@ -1,2 +1,1 @@
-# python
-python
+该仓库下为 python的小程序，每个python小程序都一个readme文件，该文件对相应的python进行了简单的描述
