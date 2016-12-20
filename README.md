@@ -1,1 +1,1 @@
-该仓库下为 python的小程序，每个python小程序都一个readme文件，该文件对相应的python进行了简单的描述
+该仓库下为 python的小程序，每个python小程序都有一个readme文件，该文件对相应的python程序进行了简单的描述
